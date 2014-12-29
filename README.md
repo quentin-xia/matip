@@ -21,7 +21,6 @@ Note: both of the methods described above install `matip` as a system-wide packa
         
 ### Example ###
 
-
 *open a native apps*
 
     from matip import driver
